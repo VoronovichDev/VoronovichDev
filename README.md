@@ -1,5 +1,5 @@
 ### 👋 Hey, I’m Alexander
-**A self-taught front-end react developer with more than a year of working experience**
+**A self-taught front-end react developer with 1.5 year of working experience**
 ------
 
 Languages and Tools:
