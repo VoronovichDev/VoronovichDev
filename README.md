@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hey, I’m Alexander
+**A self-taught front-end react developer with more than a year of working experience**
+------
 
-<!--
-**VoronovichDev/VoronovichDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+* HTML5, CSS3(SASS)
+* JavaScript, TypeScript
+* React(+hooks), Redux(+toolkit)
+* Git, GitHub
+* Jest, React Testing Library
+* Firebase
+* Tailwind CSS
+* Figma, Photoshop
+* Webpack, babel
+* RESTful API
+------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: (e-mail) alexanderbizv1@gmail.com, (telegram) @Voronovichv1
